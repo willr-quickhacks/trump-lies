@@ -1,0 +1,805 @@
+name,coin,url,commits,contributors
+1. Insolar,INS,https://github.com/insolar/insolar/graphs/commit-activity,"9,482",24 contributors
+2. 0x,ZRX,https://github.com/0xProject/0x.js/graphs/commit-activity,"7,121",55 contributors
+3. Holo,HOT,https://github.com/holochain/holochain-rust/graphs/commit-activity,"6,458",28 contributors
+4. aelf,ELF,https://github.com/aelfProject/AElf/graphs/commit-activity,"5,433",26 contributors
+5. RChain,RHOC,https://github.com/rchain/rchain/graphs/commit-activity,"5,173",49 contributors
+6. TRON,TRX,https://github.com/tronprotocol/java-tron/graphs/commit-activity,"4,747",76 contributors
+7. TrueChain,TRUE,https://github.com/truechain/truechain-engineering-code/graphs/commit-activity,"4,575",33 contributors
+8. Zeusshield,ZSC,https://github.com/zeus-shield/zsc/graphs/commit-activity,"4,451",7 contributors
+9. Zilliqa,ZIL,https://github.com/Zilliqa/Zilliqa/graphs/commit-activity,"4,351",35 contributors
+10. Beam,BEAM,https://github.com/BeamMW/beam/graphs/commit-activity,"3,903",12 contributors
+11. EOS,EOS,https://github.com/eosio/eos/graphs/commit-activity,"3,827",+100 contributors
+12. Raiden Network Token,RDN,https://github.com/raiden-network/raiden/graphs/commit-activity,"3,440",67 contributors
+13. Loki,LOKI,https://github.com/loki-project/loki-messenger-iOS/graphs/commit-activity,"3,377",75 contributors
+14. Lisk,LSK,https://github.com/LiskHQ/lisk/graphs/commit-activity,"3,354",46 contributors
+15. NULS,NULS,https://github.com/nuls-io/nuls/graphs/commit-activity,"3,282",12 contributors
+16. Ren,REN,https://github.com/republicprotocol/republic-go/graphs/commit-activity,"2,731",7 contributors
+17. Waves,WAVES,https://github.com/wavesplatform/Waves/graphs/commit-activity,"2,681",42 contributors
+18. Ark,ARK,https://github.com/arkecosystem/core/graphs/commit-activity,"2,663",32 contributors
+19. Skycoin,SKY,https://github.com/skycoin/skycoin/graphs/commit-activity,"2,451",56 contributors
+20. Chainlink,LINK,https://github.com/smartcontractkit/chainlink/graphs/commit-activity,"2,343",22 contributors
+21. Aion,AION,https://github.com/aionnetwork/aion/graphs/commit-activity,"2,274",36 contributors
+22. Cardano,ADA,https://github.com/input-output-hk/cardano-sl/graphs/commit-activity,"2,159",91 contributors
+23. Particl,PART,https://github.com/particl/particl-core/graphs/commit-activity,"2,109",+100 contributors
+24. Ergo,EFYT,https://github.com/ergoplatform/ergo/graphs/commit-activity,"2,003",16 contributors
+25. PARETO Rewards,PARETO,https://github.com/ParetoNetwork/ParetoDevelopmentActivityRelay/graphs/commit-activity,"1,976",3 contributors
+26. Aeternity,AE,https://github.com/aeternity/epoch/graphs/commit-activity,"1,843",34 contributors
+27. Bitcoin,BTC,https://github.com/bitcoin/bitcoin/graphs/commit-activity,"1,828",+100 contributors
+28. Status,SNT,https://github.com/status-im/status-react/graphs/commit-activity,"1,783",+100 contributors
+29. Golem,GNT,https://github.com/golemfactory/golem/graphs/commit-activity,"1,764",44 contributors
+30. Stratis,STRAT,https://github.com/stratisproject/StratisBitcoinFullNode/graphs/commit-activity,"1,703",60 contributors
+31. LikeCoin,LIKE,/graphs/commit-activity,"1,671",8 contributors
+32. Semux,SEM,https://github.com/semuxproject/semux/graphs/commit-activity,"1,667",9 contributors
+33. ProChain,PRA,https://github.com/prochain/eos/graphs/commit-activity,"1,652",+100 contributors
+34. Ether-1,ETHO,https://github.com/Ether1Project/ETHOMask/graphs/commit-activity,"1,647",+100 contributors
+35. Genesis Vision,GVT,https://github.com/GenesisVision/core/graphs/commit-activity,"1,511",9 contributors
+36. YGGDRASH,YEED,https://github.com/yggdrash/yggdrash/graphs/commit-activity,"1,487",10 contributors
+37. OriginTrail,TRAC,/graphs/commit-activity,"1,455",13 contributors
+38. GlobalToken,GLT,https://github.com/globaltoken/globaltoken/graphs/commit-activity,"1,431",+100 contributors
+39. Gulden,NLG,https://github.com/Gulden/gulden-official/graphs/commit-activity,"1,340",+100 contributors
+40. Zeon,ZEON,https://github.com/ZeonNetwork/tokens/graphs/commit-activity,"1,330",+100 contributors
+41. Storj,STORJ,https://github.com/Storj/storj/graphs/commit-activity,"1,239",34 contributors
+42. LUXCoin,LUX,https://github.com/LUX-Core/lux/graphs/commit-activity,"1,233",27 contributors
+43. Bottos,BTO,https://github.com/Bottos-project/bottos/graphs/commit-activity,"1,219",14 contributors
+44. WOLLO,WLO,https://github.com/pigzbe/pigzbe-app/graphs/commit-activity,"1,181",5 contributors
+45. Mysterium,MYST,https://github.com/MysteriumNetwork/node/graphs/commit-activity,"1,177",16 contributors
+46. Qtum,QTUM,https://github.com/qtumproject/qtum/graphs/commit-activity,"1,130",+100 contributors
+47. Groestlcoin,GRS,https://github.com/Groestlcoin/groestlcoin/graphs/commit-activity,"1,101",+100 contributors
+48. Monero,XMR,https://github.com/monero-project/monero/graphs/commit-activity,"1,100",+100 contributors
+49. Nebulas,NAS,https://github.com/nebulasio/go-nebulas/graphs/commit-activity,"1,095",32 contributors
+50. SONM,SNM,https://github.com/sonm-io/core/graphs/commit-activity,"1,090",18 contributors
+51. Grin,GRIN,https://github.com/mimblewimble/grin/graphs/commit-activity,"1,082",+100 contributors
+52. Micromines,MICRO,https://github.com/micromines/token-profile/graphs/commit-activity,"1,068",+100 contributors
+53. Ethereum,ETH,https://github.com/ethereum/go-ethereum/graphs/commit-activity,"1,067",+100 contributors
+54. BetterBetting,BETR,/graphs/commit-activity,"1,065",+100 contributors
+55. FundRequest,FND,/graphs/commit-activity,"1,062",10 contributors
+56. Syscoin,SYS,https://github.com/syscoin/syscoin2/graphs/commit-activity,"1,049",+100 contributors
+57. NIX,NIX,/graphs/commit-activity,"1,025",+100 contributors
+58. CrypticCoin,CRYP,https://github.com/crypticcoinvip/CrypticCoin/graphs/commit-activity,"1,024",+100 contributors
+59. eXPerience Chain,XPC,https://github.com/xpc-wg/xpchain/graphs/commit-activity,"1,007",
+60. Komodo,KMD,https://github.com/jl777/SuperNET/graphs/commit-activity,"1,000",41 contributors
+61. Ulord,UT,https://github.com/UlordChain/UlordChain/graphs/commit-activity,993,13 contributors
+62. Bitcoin Cash,BCH,https://github.com/Bitcoin-ABC/bitcoin-abc/graphs/commit-activity,984,+100 contributors
+63. Nano,NANO,https://github.com/nanocurrency/nano-node/graphs/commit-activity,961,53 contributors
+64. Feathercoin,FTC,https://github.com/FeatherCoin/Feathercoin/graphs/commit-activity,951,+100 contributors
+65. POA Network,POA,/graphs/commit-activity,944,13 contributors
+66. BitShares,BTS,https://github.com/bitshares/bitshares-core/graphs/commit-activity,943,50 contributors
+67. Factom,FCT,https://github.com/FactomProject/factomd/graphs/commit-activity,922,56 contributors
+68. AdShares,ADS,https://github.com/adshares/adserver/graphs/commit-activity,880,7 contributors
+69. Bitcoin Diamond,BCD,https://github.com/eveybcd/BitcoinDiamond/graphs/commit-activity,874,+100 contributors
+70. Kyber Network,KNC,https://github.com/kybernetwork/KyberWallet/graphs/commit-activity,873,13 contributors
+71. Selfkey,KEY,https://github.com/SelfKeyFoundation/Identity-Wallet/graphs/commit-activity,873,15 contributors
+72. Universa,UTNP,https://github.com/UniversaBlockchain/universa/graphs/commit-activity,840,11 contributors
+73. Ontology,ONT,https://github.com/ontio/ontology/graphs/commit-activity,832,48 contributors
+74. DigiByte,DGB,https://github.com/digibyte/digibyte/graphs/commit-activity,829,+100 contributors
+75. NavCoin,NAV,https://github.com/NAVCoin/navcoin-core/graphs/commit-activity,823,17 contributors
+76. Rocket Pool,RPL,https://github.com/rocket-pool/rocketpool/graphs/commit-activity,809,7 contributors
+77. Litecoin,LTC,https://github.com/litecoin-project/litecoin/graphs/commit-activity,807,+100 contributors
+78. FujiCoin,FJC,https://github.com/fujicoin/fujicoin/graphs/commit-activity,800,+100 contributors
+79. Ether Zero,ETZ,/graphs/commit-activity,798,+100 contributors
+80. Absolute,ABS,https://github.com/absolute-community/absolute/graphs/commit-activity,797,+100 contributors
+81. Olympus Labs,MOT,https://github.com/Olympus-Labs/Hora/graphs/commit-activity,795,8 contributors
+82. Sentinel,SENT,https://github.com/sentinel-official/sentinel/graphs/commit-activity,791,15 contributors
+83. TurtleCoin,TRTL,https://github.com/turtlecoin/turtlecoin/graphs/commit-activity,791,49 contributors
+84. VeThor Token,VTHO,https://github.com/vechain/thor/graphs/commit-activity,776,11 contributors
+85. CoinFi,COFI,/graphs/commit-activity,772,12 contributors
+86. Monero Classic,XMC,/graphs/commit-activity,763,+100 contributors
+87. Genaro Network,GNX,https://github.com/GenaroNetwork/GenaroCore/graphs/commit-activity,757,15 contributors
+88. Rise,RISE,https://github.com/RiseVision/rise-node/graphs/commit-activity,743,31 contributors
+89. Bytom,BTM,https://github.com/Bytom/bytom/graphs/commit-activity,737,27 contributors
+90. Distributed Credit Chain,DCC,https://github.com/DistributedBanking/DCC/graphs/commit-activity,737,14 contributors
+91. Scorum Coins,SCR,https://github.com/Scorum/Scorum/graphs/commit-activity,727,40 contributors
+92. Neblio,NEBL,https://github.com/NeblioTeam/neblio/graphs/commit-activity,722,11 contributors
+93. Steem,STEEM,https://github.com/steemit/steem/graphs/commit-activity,707,61 contributors
+94. Steem Dollars,SBD,https://github.com/steemit/steem/graphs/commit-activity,707,61 contributors
+95. IoTeX,IOTX,/graphs/commit-activity,702,19 contributors
+96. Trinity Network Credit,TNC,/graphs/commit-activity,694,6 contributors
+97. Zcash,ZEC,https://github.com/zcash/zcash/graphs/commit-activity,670,+100 contributors
+98. Pascal Coin,PASC,https://github.com/PascalCoin/PascalCoin/graphs/commit-activity,664,10 contributors
+99. Spectrecoin,XSPEC,https://github.com/spectrecoin/spectre/graphs/commit-activity,661,9 contributors
+100. uPlexa,UPX,https://github.com/uPlexa/uplexa/graphs/commit-activity,650,+100 contributors
+101. DasCoin,DASC,/graphs/commit-activity,622,20 contributors
+102. VoteCoin,VOT,https://github.com/Tomas-M/VoteCoin/graphs/commit-activity,608,+100 contributors
+103. Linda,LINDA,https://github.com/TheLindaProjectInc/Linda/graphs/commit-activity,600,5 contributors
+104. Stakenet,XSN,https://github.com/X9Developers/XSN/graphs/commit-activity,596,+100 contributors
+105. Siacoin,SC,https://github.com/NebulousLabs/Sia/graphs/commit-activity,593,50 contributors
+106. Golos,GOLOS,https://github.com/GolosChain/golos/graphs/commit-activity,578,37 contributors
+107. Aphelion,APH,/graphs/commit-activity,575,8 contributors
+108. sUSD,SUSD,https://github.com/Havven/havven/graphs/commit-activity,544,12 contributors
+109. Syndicate,SYNX,https://github.com/SyndicateLtd/SyndicateQT/graphs/commit-activity,541,+100 contributors
+110. POPCHAIN,PCH,/graphs/commit-activity,520,14 contributors
+111. Binance Coin,BNB,https://github.com/bnb2dev//graphs/commit-activity,516,+100 contributors
+112. Quantum Resistant Ledger,QRL,https://github.com/theQRL/QRL/graphs/commit-activity,512,27 contributors
+113. Apollo Currency,APL,/graphs/commit-activity,505,8 contributors
+114. ION,ION,https://github.com/ionomy/ion/graphs/commit-activity,504,23 contributors
+115. IOTA,MIOTA,https://github.com/iotaledger/iri/graphs/commit-activity,496,46 contributors
+116. Dash,DASH,https://github.com/dashpay/dash/graphs/commit-activity,494,+100 contributors
+117. Litecoin Cash,LCC,/graphs/commit-activity,492,+100 contributors
+118. Amoveo,VEO,https://github.com/zack-bitcoin/amoveo/graphs/commit-activity,490,47 contributors
+119. Loopring [NEO],LRN,/graphs/commit-activity,486,12 contributors
+120. NKN,NKN,/graphs/commit-activity,480,26 contributors
+121. Ravencoin,RVN,https://github.com/RavenProject/Ravencoin/graphs/commit-activity,464,+100 contributors
+122. DAOstack,GEN,/graphs/commit-activity,457,21 contributors
+123. Asch,XAS,https://github.com/AschPlatform/asch/graphs/commit-activity,456,15 contributors
+124. Stellar,XLM,https://github.com/stellar/stellar-core/graphs/commit-activity,453,54 contributors
+125. Bridge Protocol,TOLL,/graphs/commit-activity,447,46 contributors
+126. ThingsOperatingSystem,TOS,https://github.com/TOSIO/tos/graphs/commit-activity,445,33 contributors
+127. Bulwark,BWK,https://github.com/bulwark-crypto/Bulwark/graphs/commit-activity,437,17 contributors
+128. Own,CHX,/graphs/commit-activity,417,7 contributors
+129. Decred,DCR,https://github.com/decred/dcrd/graphs/commit-activity,416,98 contributors
+130. Rupaya,RUPX,https://github.com/rupaya-project/rupx/graphs/commit-activity,410,+100 contributors
+131. Zcoin,XZC,https://github.com/zcoinofficial/zcoin/graphs/commit-activity,406,29 contributors
+132. Burst,BURST,https://github.com/PoC-Consortium/burstcoin/graphs/commit-activity,405,37 contributors
+133. PIVX,PIVX,https://github.com/PIVX-Project/PIVX/graphs/commit-activity,397,+100 contributors
+134. VITE,VITE,/graphs/commit-activity,389,7 contributors
+135. iExec RLC,RLC,https://github.com/iExecBlockchainComputing/xtremweb-hep/graphs/commit-activity,382,6 contributors
+136. Basic Attention Token,BAT,https://github.com/brave/browser-laptop/graphs/commit-activity,375,+100 contributors
+137. Pirl,PIRL,https://github.com/pirl/pirl/graphs/commit-activity,373,6 contributors
+138. Nexus,NXS,https://github.com/Nexusoft/Nexus/graphs/commit-activity,365,17 contributors
+139. Phore,PHR,https://github.com/phoreproject/Phore/graphs/commit-activity,361,+100 contributors
+140. NEXT,NET,https://github.com/nimiq-network/core/graphs/commit-activity,358,34 contributors
+141. DarexTravel,DART,https://github.com/DarexTravel/MyCrypto/graphs/commit-activity,356,52 contributors
+142. Aeon,AEON,https://github.com/aeonix/aeon/graphs/commit-activity,351,+100 contributors
+143. Iconic,ICON,https://github.com/icon-project/loopchain/graphs/commit-activity,346,10 contributors
+144. Wagerr,WGR,https://github.com/wagerr/wagerr/graphs/commit-activity,341,14 contributors
+145. Graft,GRFT,/graphs/commit-activity,338,+100 contributors
+146. Excaliburcoin,EXC,/graphs/commit-activity,335,4 contributors
+147. TrustNote,TTT,/graphs/commit-activity,334,3 contributors
+148. Ethereum Classic,ETC,https://github.com/ethereumproject/go-ethereum/graphs/commit-activity,334,98 contributors
+149. Blocknet,BLOCK,https://github.com/BlocknetDX/BlockDX/graphs/commit-activity,328,+100 contributors
+150. Global Social Chain,GSC,/graphs/commit-activity,325,4 contributors
+151. Polis,POLIS,https://github.com/polispay/polis/graphs/commit-activity,321,+100 contributors
+152. Request,REQ,https://github.com/RequestNetwork/requestNetwork.js/graphs/commit-activity,315,13 contributors
+153. Bitcoin SV,BSV,https://github.com/bitcoin-sv/bitcoin-sv/graphs/commit-activity,309,+100 contributors
+154. MyBit,MYB,/graphs/commit-activity,296,6 contributors
+155. Bitmark,BTM2,https://github.com/project-bitmark/bitmark/graphs/commit-activity,295,10 contributors
+156. Emercoin,EMC,https://github.com/emercoin/emercoin/graphs/commit-activity,290,+100 contributors
+157. X-CASH,XCASH,https://github.com/X-CASH-official/X-CASH/graphs/commit-activity,288,+100 contributors
+158. Bancor,BNT,https://github.com/bancorprotocol/contracts/graphs/commit-activity,287,14 contributors
+159. DeepOnion,ONION,https://github.com/deeponion/deeponion/graphs/commit-activity,281,28 contributors
+160. ACChain,ACC2,https://github.com/adcoin-project/AdCoin/graphs/commit-activity,274,+100 contributors
+161. Substratum,SUB,https://github.com/SubstratumNetwork/SubstratumNode/graphs/commit-activity,269,10 contributors
+162. Colu Local Network,CLN,/graphs/commit-activity,268,6 contributors
+163. Bluzelle,BLZ,https://github.com/bluzelle/bluzelle/graphs/commit-activity,262,12 contributors
+164. Karbo,KRB,/graphs/commit-activity,261,14 contributors
+165. GridCoin,GRC,https://github.com/gridcoin/Gridcoin-Research/graphs/commit-activity,247,45 contributors
+166. Nexty,NTY,/graphs/commit-activity,244,4 contributors
+167. BiblePay,BBP,https://github.com/biblepay/biblepay/graphs/commit-activity,241,9 contributors
+168. Crown,CRW,https://github.com/Crowndev/crowncoin/graphs/commit-activity,236,+100 contributors
+169. Neutron,NTRN,https://github.com/neutroncoin/neutron/graphs/commit-activity,235,7 contributors
+170. Litecoin Plus,LCP,https://github.com/Crypto-Currency/litecoinplus/graphs/commit-activity,235,2 contributors
+171. VeriSafe,VSF,https://github.com/VeriSafe/openzeppelin-solidity/graphs/commit-activity,235,+100 contributors
+172. ColossusXT,COLX,https://github.com/ColossusCoinXT/ColossusCoinXT/graphs/commit-activity,230,+100 contributors
+173. Boolberry,BBR,/graphs/commit-activity,228,13 contributors
+174. XRP,XRP,https://github.com/ripple/rippled/graphs/commit-activity,225,66 contributors
+175. Nerva,XNV,https://github.com/angrywasp/nerva/graphs/commit-activity,219,2 contributors
+176. SmartMesh,SMT,https://github.com/SmartMeshFoundation/SMChain/graphs/commit-activity,211,8 contributors
+177. HyperCash,HC,https://github.com/HcashOrg/hcd/graphs/commit-activity,206,12 contributors
+178. SIBCoin,SIB,https://github.com/ivansib/sibcoin/graphs/commit-activity,202,+100 contributors
+179. Chronobank,TIME,https://github.com/ChronoBank/SmartContracts/graphs/commit-activity,197,13 contributors
+180. PACcoin,$PAC,/graphs/commit-activity,197,+100 contributors
+181. SpeedCash,SCS,/graphs/commit-activity,193,3 contributors
+182. Lendingblock,LND,/graphs/commit-activity,188,6 contributors
+183. doc.com Token,MTC,/graphs/commit-activity,186,4 contributors
+184. Cloudbric,CLB,https://github.com/Cloudbric-Project/ethereum-lists/graphs/commit-activity,185,+100 contributors
+185. Cryptaur,CPT,/graphs/commit-activity,185,6 contributors
+186. NEO,NEO,https://github.com/neo-project/neo/graphs/commit-activity,184,30 contributors
+187. Ignition,IC,/graphs/commit-activity,183,10 contributors
+188. Augur,REP,https://github.com/AugurProject/augur-core/graphs/commit-activity,180,26 contributors
+189. NoLimitCoin,NLC2,https://github.com/NoLimitCoin/Nolimitcoin-Core/graphs/commit-activity,179,7 contributors
+190. Aragon,ANT,https://github.com/aragon/aragonOS/graphs/commit-activity,179,23 contributors
+191. Safe Exchange Coin,SAFEX,https://github.com/safex/node-xmrig/graphs/commit-activity,171,13 contributors
+192. VIT,VIT,/graphs/commit-activity,171,5 contributors
+193. QLC Chain,QLC,https://github.com/qlinkdev/qlink/graphs/commit-activity,166,8 contributors
+194. Neumark,NEU,https://github.com/Neufund/TypeChain/graphs/commit-activity,164,14 contributors
+195. FantasyGold,FGC,https://github.com/FantasyGold/FantasyGold-Core/graphs/commit-activity,153,2 contributors
+196. Apollon,XAP,https://github.com/apollondeveloper/ApollonCore/graphs/commit-activity,153,+100 contributors
+197. Loopring,LRC,https://github.com/loopring/protocol/graphs/commit-activity,152,12 contributors
+198. United Bitcoin,UBTC,https://github.com/UnitedBitcoin/UnitedBitcoin/graphs/commit-activity,151,+100 contributors
+199. Stellite,XTL,/graphs/commit-activity,150,5 contributors
+200. Anoncoin,ANC,https://github.com/Anoncoin/anoncoin/graphs/commit-activity,148,+100 contributors
+201. PWR Coin,PWR,/graphs/commit-activity,147,3 contributors
+202. Help The Homeless Coin,HTH,https://github.com/HTHcoin/HTH/graphs/commit-activity,147,10 contributors
+203. SPINDLE,SPD,/graphs/commit-activity,147,8 contributors
+204. Ryo Currency,RYO,/graphs/commit-activity,143,8 contributors
+205. Bitcoin Green,BITG,/graphs/commit-activity,141,5 contributors
+206. B3Coin,KB3,/graphs/commit-activity,138,6 contributors
+207. Myriad,XMY,https://github.com/myriadteam/myriadcoin/graphs/commit-activity,135,+100 contributors
+208. Terracoin,TRC,https://github.com/terracoin/terracoin/graphs/commit-activity,135,+100 contributors
+209. Digitalcoin,DGC,https://github.com/lomtax/digitalcoin/graphs/commit-activity,133,+100 contributors
+210. Matryx,MTX,https://github.com/matryx/calcflow/graphs/commit-activity,127,7 contributors
+211. OneLedger,OLT,/graphs/commit-activity,126,2 contributors
+212. OmiseGO,OMG,https://github.com/omisego/plasma-mvp/graphs/commit-activity,125,24 contributors
+213. Arionum,ARO,https://github.com/arionum/node/graphs/commit-activity,124,4 contributors
+214. Super Bitcoin,SBTC,https://github.com/superbitcoin/SuperBitcoin/graphs/commit-activity,122,+100 contributors
+215. Social Send,SEND,https://github.com/SocialSend/SocialSend/graphs/commit-activity,120,9 contributors
+216. Electroneum,ETN,https://github.com/electroneum/electroneum/graphs/commit-activity,120,+100 contributors
+217. Niobio Cash,NBR,https://github.com/niobio-cash/niobio-node-daemon/graphs/commit-activity,117,16 contributors
+218. LTO Network,LTO,https://github.com/legalthings/eth-contract-metadata/graphs/commit-activity,116,+100 contributors
+219. MNPCoin,MNP,https://github.com/MasterNodesPro/MNPCoin/graphs/commit-activity,115,5 contributors
+220. Rublix,RBLX,/graphs/commit-activity,113,4 contributors
+221. Peercoin,PPC,https://github.com/peercoin/peercoin/graphs/commit-activity,113,+100 contributors
+222. Maker,MKR,https://github.com/makerdao/pyexchange/graphs/commit-activity,112,4 contributors
+223. ARbit,ARB2,/graphs/commit-activity,111,3 contributors
+224. Coinvest,COIN,/graphs/commit-activity,111,5 contributors
+225. BitClave,CAT,/graphs/commit-activity,110,4 contributors
+226. Winding Tree,LIF,/graphs/commit-activity,110,9 contributors
+227. Humanscape,HUM,https://github.com/humanscape/token-profile/graphs/commit-activity,109,42 contributors
+228. Verge,XVG,https://github.com/vergecurrency/VERGE/graphs/commit-activity,108,54 contributors
+229. Sharder,SS,/graphs/commit-activity,106,5 contributors
+230. Bee Token,BEE,/graphs/commit-activity,105,6 contributors
+231. Narrative,NRVE,/graphs/commit-activity,105,3 contributors
+232. AirSwap,AST,https://github.com/airswap/auto-remediate/graphs/commit-activity,103,9 contributors
+233. Hush,HUSH,https://github.com/MyHush/hush/graphs/commit-activity,103,+100 contributors
+234. Masari,MSR,/graphs/commit-activity,103,6 contributors
+235. TrezarCoin,TZC,https://github.com/TrezarCoin/TrezarCoin/graphs/commit-activity,102,+100 contributors
+236. ParkinGo,GOT,/graphs/commit-activity,100,4 contributors
+237. Elliot Coin,ELLI,https://github.com/elliotproject/elli/graphs/commit-activity,96,+100 contributors
+238. GravityCoin,GXX,https://github.com/GravityCoinOfficial/GravityCoin/graphs/commit-activity,94,16 contributors
+239. MonaCoin,MONA,https://github.com/monacoinproject/monacoin/graphs/commit-activity,94,+100 contributors
+240. Haven Protocol,XHV,https://github.com/havenprotocol/haven/graphs/commit-activity,93,3 contributors
+241. STK,STK,/graphs/commit-activity,89,5 contributors
+242. Bounty0x,BNTY,https://github.com/bounty0x/Bounty0xCrowdsale/graphs/commit-activity,88,1 contributor
+243. Ambrosus,AMB,https://github.com/ambrosus/react-components/graphs/commit-activity,87,4 contributors
+244. Bitcoin Scrypt,BTCS,https://github.com/bitcoin-scrypt/bitcoin-scrypt/graphs/commit-activity,87,2 contributors
+245. BitWhite,BTW,https://github.com/BTWhite/BTWChain/graphs/commit-activity,86,2 contributors
+246. BitcoinZ,BTCZ,/graphs/commit-activity,85,8 contributors
+247. View,VIEW,/graphs/commit-activity,85,2 contributors
+248. SDChain,SDA,/graphs/commit-activity,84,5 contributors
+249. OST,OST,https://github.com/OpenSTFoundation/openst-platform/graphs/commit-activity,83,13 contributors
+250. Crypto Improvement Fund,CIF,https://github.com/CIF-Github/CIF-Core/graphs/commit-activity,80,+100 contributors
+251. Dether,DTH,/graphs/commit-activity,80,6 contributors
+252. EverGreenCoin,EGC,https://github.com/EverGreenCoinDev/EverGreenCoin/graphs/commit-activity,80,7 contributors
+253. Telcoin,TEL,/graphs/commit-activity,80,2 contributors
+254. Exchange Union,XUC,https://github.com/ExchangeUnion/btcd/graphs/commit-activity,79,86 contributors
+255. ADAMANT Messenger,ADM,https://github.com/adamant-im/adamant-pool/graphs/commit-activity,79,3 contributors
+256. EveryCoin ,EVY,https://github.com/aaron-platform/everycoin/graphs/commit-activity,79,2 contributors
+257. WeAreSatoshi,WSX,https://github.com/WeAreSatoshi/WeAreSatoshi2/graphs/commit-activity,79,97 contributors
+258. Xchange,XCG,https://github.com/Xcgtech/Wallet/graphs/commit-activity,78,3 contributors
+259. XYO,XYO,/graphs/commit-activity,78,5 contributors
+260. SingularityNET,AGI,https://github.com/singnet/holistic-edge-detection-service/graphs/commit-activity,77,3 contributors
+261. GoByte,GBX,https://github.com/gobytecoin/gobyte/graphs/commit-activity,77,4 contributors
+262. Quant,QNT,https://github.com/quantnetwork/eth-contract-metadata/graphs/commit-activity,77,68 contributors
+263. Superior Coin,SUP,https://github.com/TheSuperiorCoin/TheSuperiorCoin/graphs/commit-activity,77,6 contributors
+264. eosDAC,EOSDAC,/graphs/commit-activity,75,4 contributors
+265. SnowGem,XSG,https://github.com/Snowgem/Snowgem/graphs/commit-activity,75,6 contributors
+266. Ubiq,UBQ,https://github.com/ubiq/go-ubiq/graphs/commit-activity,75,+100 contributors
+267. THETA,THETA,https://github.com/thetatoken/theta-infrastructure-vault/graphs/commit-activity,72,1 contributor
+268. Achain,ACT,https://github.com/Achain-Dev/Achain/graphs/commit-activity,71,10 contributors
+269. Ink,INK,https://github.com/inklabsfoundation/inkchain/graphs/commit-activity,71,8 contributors
+270. Bitcoin Plus,XBC,https://github.com/bitcoinplusorg/xbcwalletsource/graphs/commit-activity,70,+100 contributors
+271. Citadel,CTL,https://github.com/cntemple/Citadel/graphs/commit-activity,69,5 contributors
+272. CommerceBlock,CBT,/graphs/commit-activity,68,2 contributors
+273. Cosmos,ATOM2,https://github.com/cosmos/ledger-go/graphs/commit-activity,68,2 contributors
+274. Castle,CSTL,https://github.com/growaleaf/CastleMN/graphs/commit-activity,67,4 contributors
+275. Zap,ZAP,https://github.com/zapproject/FeedArbitration/graphs/commit-activity,67,12 contributors
+276. Counterparty,XCP,https://github.com/CounterpartyXCP/counterparty-lib/graphs/commit-activity,67,29 contributors
+277. SpectrumCash,XSM,https://github.com/Spectrumcash/Spectrum-Coin/graphs/commit-activity,66,3 contributors
+278. Paymon,PMNT,https://github.com/PaymonTeam/paymon-ios-new/graphs/commit-activity,65,3 contributors
+279. Themis,GET2,https://github.com/themis-network/go-themis/graphs/commit-activity,64,6 contributors
+280. Moss Coin,MOC,/graphs/commit-activity,62,4 contributors
+281. WePower,WPR,/graphs/commit-activity,62,4 contributors
+282. VIVO,VIVO,https://github.com/vivocoin/vivo/graphs/commit-activity,61,1 contributor
+283. HOdlcoin,HODL,https://github.com/HOdlcoin/HOdlcoin/graphs/commit-activity,60,+100 contributors
+284. EXMR,EXMR,https://github.com/eXMRcoin/Ethereum-Monero/graphs/commit-activity,60,1 contributor
+285. Teloscoin,TELOS,https://github.com/phoenixkonsole/transcendence/graphs/commit-activity,59,4 contributors
+286. THEKEY,TKY,/graphs/commit-activity,58,1 contributor
+287. PRiVCY,PRIV,https://github.com/privcycoin/privcy/graphs/commit-activity,57,3 contributors
+288. DeviantCoin,DEV,/graphs/commit-activity,57,4 contributors
+289. Advanced Internet Blocks,AIB,https://github.com/iobond/aib/graphs/commit-activity,57,7 contributors
+290. Aditus,ADI,/graphs/commit-activity,56,23 contributors
+291. Kalkulus,KLKS,https://github.com/kalkulusteam/klks/graphs/commit-activity,56,3 contributors
+292. Naviaddress,NAVI,/graphs/commit-activity,55,3 contributors
+293. Bitcore,BTX,https://github.com/LIMXTEC/BitCore/graphs/commit-activity,55,10 contributors
+294. Cybereits,CRE,https://github.com/Cybereits/ms-token/graphs/commit-activity,53,1 contributor
+295. MaidSafeCoin,MAID,https://github.com/maidsafe/crust/graphs/commit-activity,52,30 contributors
+296. E-Dinar Coin,EDR2,/graphs/commit-activity,52,2 contributors
+297. Nekonium,NUKO,https://github.com/nekonium/nekonium.github.io/graphs/commit-activity,51,7 contributors
+298. CanYaCoin,CAN,https://github.com/canyaio/cantrack-webui/graphs/commit-activity,51,4 contributors
+299. Metronome,MET,/graphs/commit-activity,51,5 contributors
+300. Pigeoncoin,PGN,https://github.com/Pigeoncoin/pigeoncoin/graphs/commit-activity,51,9 contributors
+301. BitGuild PLAT,PLAT,https://github.com/BitGuildPlatform/tronsr-template/graphs/commit-activity,50,4 contributors
+302. Mercury,MER,https://github.com/SigwoTechnologies/jupiter/graphs/commit-activity,50,1 contributor
+303. HOQU,HQX,/graphs/commit-activity,50,2 contributors
+304. Darcrus,DAR,https://github.com/SigwoTechnologies/jupiter/graphs/commit-activity,50,1 contributor
+305. U Network,UUU,/graphs/commit-activity,50,21 contributors
+306. Galactrum,ORE,/graphs/commit-activity,48,2 contributors
+307. AWARE,AT,/graphs/commit-activity,48,19 contributors
+308. Aegeus,AEG,/graphs/commit-activity,46,
+309. Remme,REM,https://github.com/Remmeauth/remme-block-explorer/graphs/commit-activity,46,3 contributors
+310. Iridium,IRD,https://github.com/iridiumdev/iridium/graphs/commit-activity,45,6 contributors
+311. Block Array,ARY,/graphs/commit-activity,44,1 contributor
+312. ContractNet,CNET,https://github.com/ContractNetLabs/go-ContractNet/graphs/commit-activity,44,+100 contributors
+313. Phantomx,PNX,https://github.com/phantomxdev/phantomx/graphs/commit-activity,44,3 contributors
+314. BOX Token,BOX,/graphs/commit-activity,44,
+315. Newton Coin Project,NCP,/graphs/commit-activity,43,2 contributors
+316. CryCash,CRC,https://github.com/crowdcoinChain/Crowdcoin/graphs/commit-activity,41,1 contributor
+317. Mincoin,MNC2,https://github.com/main-coin/main-explorer-frontend/graphs/commit-activity,41,1 contributor
+318. Wibson,WIB,https://github.com/wibsonorg/tokens-distribution/graphs/commit-activity,40,3 contributors
+319. CloakCoin,CLOAK,https://github.com/CloakProject/Cloak2Public/graphs/commit-activity,40,3 contributors
+320. MassGrid,MGD,https://github.com/MassGrid/MassGrid/graphs/commit-activity,39,5 contributors
+321. Carlive Chain,IOV,/graphs/commit-activity,39,14 contributors
+322. BBSCoin,BBS,https://github.com/bbscoin/bbscoin-xyz-i18n/graphs/commit-activity,39,3 contributors
+323. AppCoins,APPC,https://github.com/AppStoreFoundation/asf-unity-plugin-2017/graphs/commit-activity,39,3 contributors
+324. XTRABYTES,XBY,https://github.com/borzalom/XtraBYtes/graphs/commit-activity,39,8 contributors
+325. Sharpe Platform Token,SHP,/graphs/commit-activity,38,2 contributors
+326. TEMCO,TEMCO,https://github.com/temcolabs/token/graphs/commit-activity,38,1 contributor
+327. Oxycoin,OXY,https://github.com/oxycoin/oxy-node/graphs/commit-activity,38,27 contributors
+328. Hydro,HYDRO,/graphs/commit-activity,38,3 contributors
+329. nOS,NOS,https://github.com/nos/voting-system-research/graphs/commit-activity,38,2 contributors
+330. Vertcoin,VTC,https://github.com/vertcoin/vertcoin/graphs/commit-activity,37,+100 contributors
+331. VULCANO,VULC,https://github.com/vulcanodev/Vulcano/graphs/commit-activity,37,4 contributors
+332. Origami,ORI,https://github.com/origamiMP/origami-review-api/graphs/commit-activity,37,1 contributor
+333. LightChain,LIGHT,/graphs/commit-activity,37,1 contributor
+334. Sumokoin,SUMO,https://github.com/sumoprojects/sumokoin/graphs/commit-activity,37,14 contributors
+335. CarBlock,CAR,/graphs/commit-activity,37,+100 contributors
+336. ZCore,ZCR,https://github.com/zcore-coin/zcore-source/graphs/commit-activity,37,4 contributors
+337. Opacity,OPQ,https://github.com/opacity/scripts/graphs/commit-activity,36,3 contributors
+338. TokenPay,TPAY,/graphs/commit-activity,36,4 contributors
+339. Hdac,HDAC,https://github.com/Hdactech/hdac/graphs/commit-activity,36,4 contributors
+340. Lightpaycoin,LPC,/graphs/commit-activity,35,2 contributors
+341. The Abyss,ABYSS,/graphs/commit-activity,35,1 contributor
+342. ARAW,ARAW,https://github.com/arawtoken/arawtoken/graphs/commit-activity,35,1 contributor
+343. bitcoin2network,B2N,https://github.com/b2n-project/bitcoin2network/graphs/commit-activity,35,2 contributors
+344. VeriCoin,VRC,https://github.com/vericoin/vericoin/graphs/commit-activity,35,+100 contributors
+345. ORS Group,ORS2,https://github.com/ORSGroup/ORS-Tokensale/graphs/commit-activity,34,3 contributors
+346. Bitcoin Gold,BTG,https://github.com/BTCGPU/BTCGPU/graphs/commit-activity,33,+100 contributors
+347. CannabisCoin,CANN,https://github.com/cannabiscoindev/cannabiscoin420/graphs/commit-activity,33,+100 contributors
+348. GeyserCoin,GSR,https://github.com/geysercoin/geysercoin/graphs/commit-activity,32,2 contributors
+349. WeToken,WT,/graphs/commit-activity,32,1 contributor
+350. HyperStake,HYP,https://github.com/hyperstake/HyperStake/graphs/commit-activity,32,22 contributors
+351. Apex,CPX,/graphs/commit-activity,31,2 contributors
+352. Master Contract Token,MCT,/graphs/commit-activity,31,3 contributors
+353. Merculet,MVP,/graphs/commit-activity,31,2 contributors
+354. Magnet,MAG,https://github.com/magnetwork/magnet/graphs/commit-activity,31,4 contributors
+355. Conceal,CCX,https://github.com/ConcealNetwork/conceal-guardian/graphs/commit-activity,31,2 contributors
+356. Gnosis,GNO,https://github.com/gnosis/dx-safe-cli/graphs/commit-activity,31,2 contributors
+357. Morpheus Labs,MITX,/graphs/commit-activity,30,2 contributors
+358. IPChain,IPC,/graphs/commit-activity,30,2 contributors
+359. Maverick Chain,MVC,https://github.com/mvchain/dyvault-surface-android/graphs/commit-activity,30,2 contributors
+360. MOAC,MOAC,https://github.com/MOACChain/moac-core/graphs/commit-activity,30,5 contributors
+361. Electra,ECA,/graphs/commit-activity,29,7 contributors
+362. Bitcoin Private,BTCP,https://github.com/BTCPrivate/BitcoinPrivate/graphs/commit-activity,29,+100 contributors
+363. Bitcoin W Spectrum,BWS,https://github.com/raymaker/bitcoinwspectrum/graphs/commit-activity,29,3 contributors
+364. carVertical,CV,/graphs/commit-activity,28,
+365. Espers,ESP,https://github.com/cryptocoderz/espers/graphs/commit-activity,28,9 contributors
+366. LiteBitcoin,LBTC,https://github.com/litebitcoins/litebitcoin/graphs/commit-activity,28,3 contributors
+367. VeChain,VET,https://github.com/vechain/connex-impl-test/graphs/commit-activity,28,1 contributor
+368. MintCoin,MINT,https://github.com/MintcoinCommunity/Mintcoin-Desktop-Wallet/graphs/commit-activity,27,12 contributors
+369. Mirai,MRI,https://github.com/bumbacoin/Mirai-Master/graphs/commit-activity,27,1 contributor
+370. SmileyCoin,SMLY,https://github.com/tutor-web/smileyCoin/graphs/commit-activity,27,10 contributors
+371. LBRY Credits,LBC,https://github.com/lbryio/aiorpcX/graphs/commit-activity,27,1 contributor
+372. Cred,LBA,/graphs/commit-activity,26,4 contributors
+373. Auctus,AUC,/graphs/commit-activity,26,5 contributors
+374. Megacoin,MEC,https://github.com/LIMXTEC/Megacoin/graphs/commit-activity,26,+100 contributors
+375. Arcblock,ABT,/graphs/commit-activity,26,2 contributors
+376. Sexcoin,SXC,https://github.com/sexcoin-project/sexcoin/graphs/commit-activity,26,7 contributors
+377. Civic,CVC,https://github.com/civicteam/middy/graphs/commit-activity,25,25 contributors
+378. Kleros,PNK,https://github.com/kleros/research-docs/graphs/commit-activity,25,1 contributor
+379. Atomic Wallet Coin,AWC,https://github.com/Atomicwallet/axios/graphs/commit-activity,24,+100 contributors
+380. 0xcert,ZXC,/graphs/commit-activity,24,2 contributors
+381. Bitcloud,BTDX,https://github.com/LIMXTEC/Bitcloud/graphs/commit-activity,24,1 contributor
+382. APIS,APIS,/graphs/commit-activity,24,3 contributors
+383. ATMChain,ATM,https://github.com/ATMChain//graphs/commit-activity,24,1 contributor
+384. Curecoin,CURE,https://github.com/cygnusxi/CurecoinSource/graphs/commit-activity,24,12 contributors
+385. Nebula AI,NBAI,/graphs/commit-activity,24,5 contributors
+386. Freicoin,FRC,https://github.com/freicoin/freicoin/graphs/commit-activity,24,+100 contributors
+387. UNIVERSAL CASH,UCASH,/graphs/commit-activity,24,14 contributors
+388. Ammo Reloaded,AMMO,/graphs/commit-activity,24,2 contributors
+389. Dero,DERO,/graphs/commit-activity,23,1 contributor
+390. Po.et,POE,https://github.com/poetapp/poet/graphs/commit-activity,23,7 contributors
+391. CottonCoin,COTN,https://github.com/cottoncoin/cottoncoin/graphs/commit-activity,23,1 contributor
+392. Block-Logic,BLTG,https://github.com/Block-Logic-Technology-Group/bltg/graphs/commit-activity,23,3 contributors
+393. CoinToGo,2GO,https://github.com/cointogo/coin2goproject/graphs/commit-activity,22,1 contributor
+394. BitSend,BSD,https://github.com/LIMXTEC/BitSend/graphs/commit-activity,22,11 contributors
+395. ExclusiveCoin,EXCL,https://github.com/exclfork/ExclusiveCoin/graphs/commit-activity,22,7 contributors
+396. InterValue,INVE,https://github.com/intervalue/intervalue-2.0.0-testnet/graphs/commit-activity,22,1 contributor
+397. SaveNode,SNO,https://github.com/savenode/SaveNodeCore/graphs/commit-activity,22,2 contributors
+398. Traid,TRAID,https://github.com/TraidPlatform/traidcoin/graphs/commit-activity,22,1 contributor
+399. Cryptonite,XCN,https://github.com/pallas1/Cryptonite/graphs/commit-activity,22,4 contributors
+400. Maxcoin,MAX,/graphs/commit-activity,22,13 contributors
+401. EZToken,EZT,/graphs/commit-activity,21,1 contributor
+402. Jiyo [OLD],JIYO,/graphs/commit-activity,21,1 contributor
+403. Bitcoin Interest,BCI,/graphs/commit-activity,21,7 contributors
+404. Photon,PHO,https://github.com/photonproject/photon/graphs/commit-activity,21,5 contributors
+405. XDNA,XDNA,https://github.com/XDNA-Core/XDNA/graphs/commit-activity,21,2 contributors
+406. Cazcoin,CAZ,/graphs/commit-activity,21,2 contributors
+407. Bezop,BEZ,/graphs/commit-activity,21,7 contributors
+408. ZPER,ZPR,/graphs/commit-activity,21,1 contributor
+409. Devery,EVE,/graphs/commit-activity,21,2 contributors
+410. Melon,MLN,https://github.com/melonproject/oyente/graphs/commit-activity,21,21 contributors
+411. Thrive Token,THRT,/graphs/commit-activity,21,1 contributor
+412. FintruX Network,FTX,/graphs/commit-activity,20,3 contributors
+413. SelfSell,SSC,https://github.com/SelfSellTeam/SelfSell-linux/graphs/commit-activity,20,1 contributor
+414. SparksPay,SPK,https://github.com/SparksPay/go-sparksutil/graphs/commit-activity,20,16 contributors
+415. Vipstar Coin,VIPS,https://github.com/VIPSTARCOIN/VIPSTARCOIN/graphs/commit-activity,20,1 contributor
+416. Sharpay,S,https://github.com/sharpay-io/cloudflare/graphs/commit-activity,19,2 contributors
+417. Uniform Fiscal Object,UFO,https://github.com/UFOCoins/ufo/graphs/commit-activity,19,+100 contributors
+418. Parkgene,GENE,/graphs/commit-activity,19,3 contributors
+419. Matrix AI Network,MAN,/graphs/commit-activity,19,3 contributors
+420. Monkey Project,MONK,https://github.com/MONKEYPROJECT/Monkey/graphs/commit-activity,19,1 contributor
+421. Fusion,FSN,/graphs/commit-activity,19,2 contributors
+422. Essentia,ESS,/graphs/commit-activity,19,5 contributors
+423. ZelCash,ZEL,/graphs/commit-activity,18,2 contributors
+424. CPChain,CPC,https://github.com/Capricoinofficial/Capricoin/graphs/commit-activity,18,2 contributors
+425. Shekel,JEW,/graphs/commit-activity,18,4 contributors
+426. Project Pai,PAI,https://github.com/projectpai/pai_smart_node/graphs/commit-activity,18,3 contributors
+427. Capricoin,CPC2,https://github.com/Capricoinofficial/Capricoin/graphs/commit-activity,18,2 contributors
+428. EUNO,EUNO,https://github.com/Euno/eunowallet/graphs/commit-activity,18,1 contributor
+429. GoChain,GO,https://github.com/gochain-io/go-post/graphs/commit-activity,17,4 contributors
+430. SnodeCoin,SND,https://github.com/snodeco/snode-coin/graphs/commit-activity,17,1 contributor
+431. BZLCOIN,BZL,https://github.com/bzlcoin/bzlcoin/graphs/commit-activity,17,3 contributors
+432. AdCoin,ACC,https://github.com/acceleratornetwork/accelerator-token/graphs/commit-activity,17,2 contributors
+433. XinFin Network,XDCE,https://github.com/XinFinorg/Telegram-Bot/graphs/commit-activity,17,3 contributors
+434. RightMesh,RMESH,/graphs/commit-activity,16,4 contributors
+435. OmenCoin,OMEN,https://github.com/omencoin/omencoin/graphs/commit-activity,16,
+436. LanaCoin,LANA,https://github.com/LanaCoin/lanacoin/graphs/commit-activity,16,+100 contributors
+437. Radium,RADS,https://github.com/RadiumCore/radium-0.11/graphs/commit-activity,16,+100 contributors
+438. VeriumReserve,VRM,https://github.com/VeriumReserve/verium/graphs/commit-activity,16,+100 contributors
+439. Digiwage,WAGE,https://github.com/digiwage/digiwage/graphs/commit-activity,16,2 contributors
+440. Blockport,BPT,/graphs/commit-activity,16,2 contributors
+441. Signals Network,SGN,/graphs/commit-activity,15,2 contributors
+442. GenesisX,XGS,https://github.com/genesis-x/genesis-x/graphs/commit-activity,15,3 contributors
+443. MVL,MVL,/graphs/commit-activity,15,1 contributor
+444. Rupee,RUP,https://github.com/rupeedigitalassets/RUPEE/graphs/commit-activity,15,3 contributors
+445. Bata,BTA,https://github.com/BTA-BATA/BATA-SOURCE/graphs/commit-activity,15,4 contributors
+446. SolarCoin,SLR,https://github.com/onsightit/solarcoin/graphs/commit-activity,15,7 contributors
+447. Auroracoin,AUR,https://github.com/aurarad/auroracoin/graphs/commit-activity,15,4 contributors
+448. FunFair,FUN,https://github.com/funfair-tech/NuGetGallery/graphs/commit-activity,14,94 contributors
+449. TajCoin,TAJ,https://github.com/Taj-Coin/tajcoin/graphs/commit-activity,14,3 contributors
+450. Vivid Coin,VIVID,/graphs/commit-activity,14,1 contributor
+451. Garlicoin,GRLC,https://github.com/GarlicoinOrg/Garlicoin/graphs/commit-activity,14,+100 contributors
+452. Scanetchain,SWC,https://github.com/Scanetchain/Scanetchain-ERC20-Token/graphs/commit-activity,14,1 contributor
+453. Ethorse,HORSE,https://github.com/ethorse/ethorse-core/graphs/commit-activity,14,1 contributor
+454. Origin Sport,ORS,https://github.com/OriginSport/world_cup_game/graphs/commit-activity,14,1 contributor
+455. Bitcoin File,BIFI,/graphs/commit-activity,14,1 contributor
+456. Quantis Network,QUAN,https://github.com/QuantisDev/QuantisNet-Fork-New-Chain/graphs/commit-activity,14,2 contributors
+457. Linx,LINX,https://github.com/linX-project/linX/graphs/commit-activity,14,3 contributors
+458. Breakout Stake,BRX,https://github.com/BreakoutCoin/Breakout-Chain-Client/graphs/commit-activity,13,1 contributor
+459. Breakout,BRK,https://github.com/BreakoutCoin/Breakout-Chain-Client/graphs/commit-activity,13,1 contributor
+460. Utrum,OOT,/graphs/commit-activity,13,3 contributors
+461. MFIT COIN,MFIT,https://github.com/muayfitcoin/muayfitcoin/graphs/commit-activity,13,1 contributor
+462. ODUWA,OWC,https://github.com/ODUWAX/oduwacoin/graphs/commit-activity,13,1 contributor
+463. Vexanium,VEX,https://github.com/vexanium/WalletLite/graphs/commit-activity,13,1 contributor
+464. Karma,KRM,https://github.com/Karma-blockchain/karma-core/graphs/commit-activity,13,3 contributors
+465. 0xBitcoin,0xBTC,https://github.com/0xbitcoin/0xbitcoin-miner/graphs/commit-activity,13,3 contributors
+466. ICON,ICX,https://github.com/theloopkr/loopchain/graphs/commit-activity,13,12 contributors
+467. Kryll,KRL,https://github.com/Cryptense/KryllToken/graphs/commit-activity,13,1 contributor
+468. Musicoin,MUSIC,https://github.com/musicoin/go-musicoin/graphs/commit-activity,13,+100 contributors
+469. Dragonglass,DGS,https://github.com/dragonglasscom/smart-contracts/graphs/commit-activity,13,2 contributors
+470. Ties.DB,TIE,https://github.com/tiesnetwork/ties.db-client-nodejs/graphs/commit-activity,13,2 contributors
+471. LoyalCoin,LYL,/graphs/commit-activity,13,4 contributors
+472. Universe,UNI,https://github.com/UniverseUNI/Universe-UNI/graphs/commit-activity,13,1 contributor
+473. Elementrem,ELE,https://github.com/elementrem/go-elementrem/graphs/commit-activity,13,1 contributor
+474. Shift,SHIFT,https://github.com/ShiftNrg/shift/graphs/commit-activity,13,10 contributors
+475. Cobinhood,COB,https://github.com/cobinhood/cobinhood-api-public/graphs/commit-activity,13,11 contributors
+476. ETERNAL TOKEN,XET,https://github.com/atom-solutions/EternalToken/graphs/commit-activity,13,3 contributors
+477. Stealth,XST,https://github.com/StealthSend/Stealth/graphs/commit-activity,13,2 contributors
+478. Nullex,NLX,/graphs/commit-activity,13,3 contributors
+479. CARDbuyers,BCARD,https://github.com/CARDbuyers/BCARD/graphs/commit-activity,13,3 contributors
+480. RECORD,RCD,https://github.com/recordfoundation/record-token-contract/graphs/commit-activity,12,2 contributors
+481. BumbaCoin,BUMBA,https://github.com/bumbacoin/bumbacoin2-source/graphs/commit-activity,12,2 contributors
+482. Ruff,RUFF,/graphs/commit-activity,12,2 contributors
+483. Viacoin,VIA,https://github.com/viacoin/viacoin/graphs/commit-activity,12,+100 contributors
+484. QuarkChain,QKC,https://github.com/QuarkChain/tqkc-bounty-lottery/graphs/commit-activity,12,1 contributor
+485. Einsteinium,EMC2,https://github.com/emc2foundation/einsteinium/graphs/commit-activity,12,+100 contributors
+486. QChi,QCH,https://github.com/qch-qchi/qch/graphs/commit-activity,12,1 contributor
+487. Phonecoin,PHON,https://github.com/phonecoin-PHON/PhoneCoinCore/graphs/commit-activity,12,1 contributor
+488. Bulleon,BUL,https://github.com/Bulleon/contract/graphs/commit-activity,12,1 contributor
+489. Solaris,XLR,https://github.com/Solaris-Project/Solaris/graphs/commit-activity,12,+100 contributors
+490. MonetaryUnit,MUE,https://github.com/MUEcoin/MUECore/graphs/commit-activity,11,6 contributors
+491. STRAKS,STAK,https://github.com/straks/straks/graphs/commit-activity,11,7 contributors
+492. Rubycoin,RBY,https://github.com/rubycoinorg/rubycoin/graphs/commit-activity,11,2 contributors
+493. BridgeCoin,BCO,https://github.com/CryptoBridge/bitshares-es-wrapper/graphs/commit-activity,11,2 contributors
+494. BnkToTheFuture,BFT,/graphs/commit-activity,11,2 contributors
+495. Peculium,PCL,https://github.com/Peculium-Dev/PCLToken/graphs/commit-activity,11,1 contributor
+496. Zenswap Network Token,ZNT,https://github.com/zenswapnetwork/ZenswapNetwork/graphs/commit-activity,11,2 contributors
+497. Global Cryptocurrency,GCC,https://github.com/TheGCCcoin/TheGCCcoin-source-code/graphs/commit-activity,11,2 contributors
+498. Cream,CRM,https://github.com/creamcoin/CREAM-cryptocurrency/graphs/commit-activity,11,1 contributor
+499. FOAM,FOAM,https://github.com/f-o-a-m/react-map-gl/graphs/commit-activity,11,53 contributors
+500. SyncFab,MFG,/graphs/commit-activity,11,
+501. PlayGame,PXG,https://github.com/playgame-global/indodax-rx/graphs/commit-activity,11,1 contributor
+502. APR Coin,APR,/graphs/commit-activity,11,1 contributor
+503. KEY,KEY2,https://github.com/bihu-id/signupeoseos/graphs/commit-activity,11,2 contributors
+504. Content Neutrality Network,CNN,/graphs/commit-activity,10,4 contributors
+505. Travala.com,AVA,/graphs/commit-activity,10,2 contributors
+506. Ubique Chain Of Things,UCT,https://github.com/UCOT/IoT-chain/graphs/commit-activity,10,2 contributors
+507. Ti-Value,TV,https://github.com/tivalueproject/TiValueRelease/graphs/commit-activity,10,3 contributors
+508. Nerves,NER,https://github.com/NerFoundation/website-official/graphs/commit-activity,10,1 contributor
+509. BoostCoin,BOST,https://github.com/mammix2/boostcoin-core/graphs/commit-activity,10,1 contributor
+510. LemoChain,LEMO,https://github.com/LemoFoundationLtd/lemo-monitor-be/graphs/commit-activity,10,2 contributors
+511. Pixie Coin,PXC,https://github.com/ghostlander/Phoenixcoin/graphs/commit-activity,10,3 contributors
+512. Atheios,ATH,https://github.com/atheioschain/ATHMask/graphs/commit-activity,10,43 contributors
+513. PRIZM,PZM,https://github.com/prizmspace/PrizmCore/graphs/commit-activity,10,1 contributor
+514. DMarket,DMT,/graphs/commit-activity,10,3 contributors
+515. TomoChain,TOMO,/graphs/commit-activity,10,1 contributor
+516. Metaverse ETP,ETP,https://github.com/mvs-org/mvs-package/graphs/commit-activity,10,1 contributor
+517. BlackCoin,BLK,https://github.com/CoinBlack/blackcoin/graphs/commit-activity,10,+100 contributors
+518. PalletOne,PTN,https://github.com/PalletOne/btc-adaptor/graphs/commit-activity,9,1 contributor
+519. DNotes,NOTE,https://github.com/DNotesCoin/DNotes/graphs/commit-activity,9,2 contributors
+520. Eternity,ENT,https://github.com/eternity-group/eternity/graphs/commit-activity,9,2 contributors
+521. Eurocoin,EUC,https://github.com/scriptexpert/Eurocoin/graphs/commit-activity,9,1 contributor
+522. BERNcash,BERN,https://github.com/BERNiecoin/BERNcash/graphs/commit-activity,9,4 contributors
+523. JavaScript Token,JS,/graphs/commit-activity,9,1 contributor
+524. Zetacoin,ZET,https://github.com/zetacoin/zetacoin/graphs/commit-activity,9,+100 contributors
+525. Bigbom,BBO,https://github.com/bigbomio/dummy-yummy/graphs/commit-activity,9,2 contributors
+526. TransferCoin,TX,https://github.com/transferdev/Transfercoin/graphs/commit-activity,9,6 contributors
+527. JET8,J8T,/graphs/commit-activity,9,1 contributor
+528. Daneel,DAN,https://github.com/project-daneel/roadmap/graphs/commit-activity,9,1 contributor
+529. Sether,SETH,/graphs/commit-activity,9,2 contributors
+530. BitBay,BAY,https://github.com/dzimbeck/BitBay/graphs/commit-activity,9,6 contributors
+531. Dentacoin,DCN,https://github.com/Dentacoin/ERC20-token/graphs/commit-activity,9,2 contributors
+532. Diamond,DMD,https://github.com/DMDcoin/Diamond/graphs/commit-activity,8,+100 contributors
+533. MicroMoney,AMM,https://github.com/micro-money/prime/graphs/commit-activity,8,2 contributors
+534. OKCash,OK,https://github.com/okcashpro/okcash/graphs/commit-activity,8,+100 contributors
+535. Amon,AMN,/graphs/commit-activity,8,1 contributor
+536. FSBT API Token,FSBT,/graphs/commit-activity,8,3 contributors
+537. BowsCoin,BSC,https://github.com/bowscoin/bowscoin/graphs/commit-activity,8,2 contributors
+538. JSECOIN,JSE,https://github.com/jsecoin/developer/graphs/commit-activity,8,3 contributors
+539. Alchemint Standards,SDS,https://github.com/Alchemint/alchemintToken/graphs/commit-activity,8,1 contributor
+540. WeShow Token,WET,https://github.com/we-token/we-live-server/graphs/commit-activity,8,1 contributor
+541. AdEx,ADX,https://github.com/AdExBlockchain/adex-core/graphs/commit-activity,8,4 contributors
+542. HorusPay,HORUS,/graphs/commit-activity,8,1 contributor
+543. DADI,DADI,https://github.com/dadi/preact-router/graphs/commit-activity,8,22 contributors
+544. PrimeStone,PSC,https://github.com/Primestonecoin/MN-Script-IPv6/graphs/commit-activity,8,1 contributor
+545. VINchain,VIN,https://github.com/VinChain/VINchain-blockchain/graphs/commit-activity,8,1 contributor
+546. TOKYO,TOKC,/graphs/commit-activity,8,1 contributor
+547. XMax,XMX,https://github.com/XMaxPlatform/xmaxjs-api-lib/graphs/commit-activity,8,1 contributor
+548. Jibrel Network,JNT,/graphs/commit-activity,7,4 contributors
+549. BitcoiNote,BTCN,/graphs/commit-activity,7,1 contributor
+550. IoT Chain,ITC,https://github.com/IoTChainCode/itc-blockchain/graphs/commit-activity,7,1 contributor
+551. Wings,WINGS,https://github.com/WingsDao/swagger-docs/graphs/commit-activity,7,1 contributor
+552. Restart Energy MWAT,MWAT,/graphs/commit-activity,7,1 contributor
+553. HondaisCoin,HNDC,https://github.com/HondaisCoin/HNDC/graphs/commit-activity,7,1 contributor
+554. Bittwatt,BWT,/graphs/commit-activity,7,1 contributor
+555. Rentberry,BERRY,/graphs/commit-activity,7,3 contributors
+556. CoinPoker,CHP,/graphs/commit-activity,7,1 contributor
+557. MktCoin,MLM,/graphs/commit-activity,7,1 contributor
+558. Cropcoin,CROP,https://github.com/Cropdev/CropDev/graphs/commit-activity,7,1 contributor
+559. Happycoin,HPC,https://github.com/happycoinmaster/Happycoin/graphs/commit-activity,7,1 contributor
+560. BitCapitalVendor,BCV,https://github.com/bitcv/iOS-BitcvWalletSDK/graphs/commit-activity,7,1 contributor
+561. Trittium,TRTT,/graphs/commit-activity,7,1 contributor
+562. YENTEN,YTN,https://github.com/conan-equal-newone/yenten/graphs/commit-activity,7,2 contributors
+563. MojoCoin,MOJO,https://github.com/MOJOv3/mojocoin/graphs/commit-activity,7,1 contributor
+564. High Performance Blockchain,HPB,https://github.com/hpb-project/systemcheck/graphs/commit-activity,6,1 contributor
+565. Rhenium,XRH,/graphs/commit-activity,6,1 contributor
+566. White Standard,WSD,/graphs/commit-activity,6,2 contributors
+567. Proton Token,PTT,https://github.com/ProtonNetwork/Proton-Wiki/graphs/commit-activity,6,2 contributors
+568. Nucleus Vision,NCASH,https://github.com/NucleusVision/Machine-Learning/graphs/commit-activity,6,2 contributors
+569. Business Credit Alliance Chain,BCAC,https://github.com/BusinessCredit/raft/graphs/commit-activity,6,1 contributor
+570. Proxeus,XES,/graphs/commit-activity,6,
+571. Obyte,GBYTE,https://github.com/byteball/bitcointalk-attestation/graphs/commit-activity,6,3 contributors
+572. PRASM,PSM,/graphs/commit-activity,6,1 contributor
+573. BioCoin,BIO,/graphs/commit-activity,6,3 contributors
+574. InsurChain,INSUR,/graphs/commit-activity,6,
+575. Nyancoin,NYAN,https://github.com/Nyancoins/nyancoin-client/graphs/commit-activity,6,4 contributors
+576. SpreadCoin,SPR,https://github.com/spreadcoin/spreadcoin/graphs/commit-activity,6,6 contributors
+577. Cobrabytes,COBRA,https://github.com/cobrabytes/CobraBytes/graphs/commit-activity,6,1 contributor
+578. Iungo,ING,/graphs/commit-activity,6,1 contributor
+579. Spendcoin,SPND,https://github.com/Spend/Spend-Whitepaper/graphs/commit-activity,6,2 contributors
+580. Crowdvilla Ownership,CRV,https://github.com/REIDAO/crowdvilla-token-sale/graphs/commit-activity,6,1 contributor
+581. Numeraire,NMR,https://github.com/numerai/contract/graphs/commit-activity,6,7 contributors
+582. Silent Notary,SNTR,/graphs/commit-activity,6,1 contributor
+583. Crave,CRAVE,https://github.com/Crave-Project/Crave-NG/graphs/commit-activity,6,2 contributors
+584. Bankera,BNK,/graphs/commit-activity,6,1 contributor
+585. Storiqa,STQ,/graphs/commit-activity,5,2 contributors
+586. Gold Poker,GPKR,https://github.com/GoldPoker/GoldPoker-coin/graphs/commit-activity,5,1 contributor
+587. Maincoin,MNC,/graphs/commit-activity,5,+100 contributors
+588. Everipedia,IQ,https://github.com/EveripediaNetwork/demux-sync/graphs/commit-activity,5,1 contributor
+589. Hurify,HUR,/graphs/commit-activity,5,1 contributor
+590. Rapids,RPD,https://github.com/RapidsOfficial/RapidsToken/graphs/commit-activity,5,1 contributor
+591. Timicoin,TMC,https://github.com/timihealth/timicoin/graphs/commit-activity,5,1 contributor
+592. DogeCash,DOGEC,https://github.com/dogecash/addnodegen/graphs/commit-activity,5,1 contributor
+593. TenX,PAY,https://github.com/tenx-tech/rust-bech32-bitcoin/graphs/commit-activity,5,4 contributors
+594. Enigma,ENG,https://github.com/enigmampc/json-patch/graphs/commit-activity,5,1 contributor
+595. HollyWoodCoin,HWC,https://github.com/Hollywoodcoiin/hollywood_team/graphs/commit-activity,5,1 contributor
+596. Fiii,FIII,https://github.com/FiiiLab/FiiiChain-Address-Prefix-Generator/graphs/commit-activity,5,1 contributor
+597. Faceter,FACE,/graphs/commit-activity,5,1 contributor
+598. Halo Platform,HALO,https://github.com/haloplatform/status/graphs/commit-activity,5,1 contributor
+599. Iconiq Lab Token,ICNQ,https://github.com/IconiqLab/ICNQ-Startup-s-Smart-Contract/graphs/commit-activity,5,1 contributor
+600. ProximaX,XPX,https://github.com/proximax-storage-foundry/simple-uploader/graphs/commit-activity,5,1 contributor
+601. Pal Network,PAL,/graphs/commit-activity,5,1 contributor
+602. AudioCoin,ADC,https://github.com/aurovine/audiocoin/graphs/commit-activity,5,10 contributors
+603. Rate3,RTE,/graphs/commit-activity,5,1 contributor
+604. EscrowCoin,ESCO,https://github.com/Escrow-Coin/escrowcoreV2/graphs/commit-activity,5,1 contributor
+605. Storjcoin X,SJCX,https://github.com/Storj/core/graphs/commit-activity,5,28 contributors
+606. Onix,ONX,https://github.com/onix-project/onixcore/graphs/commit-activity,5,37 contributors
+607. MarteXcoin,MXT,https://github.com/martexcoin/martexcoin/graphs/commit-activity,5,1 contributor
+608. Bitsum,BSM,https://github.com/BitsumFoundation/bitsum_legacy/graphs/commit-activity,5,5 contributors
+609. Lightning Bitcoin,LBTC2,/graphs/commit-activity,5,4 contributors
+610. Condominium,CDM,/graphs/commit-activity,5,1 contributor
+611. Lunes,LUNES,https://github.com/Lunes-platform/lunesJava/graphs/commit-activity,5,1 contributor
+612. Invacio,INV,/graphs/commit-activity,5,1 contributor
+613. Penta,PNT,/graphs/commit-activity,5,2 contributors
+614. Credits,CS,/graphs/commit-activity,5,2 contributors
+615. Aigang,AIX,https://github.com/AigangNetwork/aigang-forwarder/graphs/commit-activity,5,3 contributors
+616. KanadeCoin,KNDC,https://github.com/KanadeCoin/kanadecoin/graphs/commit-activity,5,1 contributor
+617. EtherSportz,ESZ,/graphs/commit-activity,4,2 contributors
+618. PayDay Coin,PDX,https://github.com/PayDayCoinIo/docs/graphs/commit-activity,4,1 contributor
+619. Presearch,PRE,/graphs/commit-activity,4,1 contributor
+620. Verify,CRED,https://github.com/verifyas/integration-guide-demo/graphs/commit-activity,4,1 contributor
+621. Lykke,LKK,https://github.com/LykkeCity/Lykke.Service.ExchangeConnector/graphs/commit-activity,4,10 contributors
+622. ETHLend,LEND,https://github.com/ETHLend/baiji-smart-contracts/graphs/commit-activity,4,1 contributor
+623. Speed Mining Service,SMS,/graphs/commit-activity,4,1 contributor
+624. Mobius,MOBI,/graphs/commit-activity,4,1 contributor
+625. Deutsche eMark,DEM,https://github.com/emarkproject/eMark/graphs/commit-activity,4,6 contributors
+626. GameCredits,GAME,https://github.com/gamecredits-project/python-gamecredits/graphs/commit-activity,4,1 contributor
+627. SkyHub Coin,SHB,https://github.com/SkyHuBs/skyhub/graphs/commit-activity,4,1 contributor
+628. Payfair,PFR,https://github.com/payfairio/pf_demo/graphs/commit-activity,4,1 contributor
+629. Tokenomy,TEN,https://github.com/tokenomy/Tokenomy-Exchange-API-Documentation/graphs/commit-activity,4,1 contributor
+630. Ivy,IVY,/graphs/commit-activity,4,1 contributor
+631. GlobalBoost-Y,BSTY,https://github.com/GlobalBoost/GlobalBoost-Y/graphs/commit-activity,4,3 contributors
+632. SDUSD,SDUSD,https://github.com/Alchemint/SNEO/graphs/commit-activity,4,1 contributor
+633. Mero,MERO,https://github.com/merocoin/mero-install/graphs/commit-activity,4,1 contributor
+634. Zeepin,ZPT,/graphs/commit-activity,4,1 contributor
+635. Howdoo,UDOO,https://github.com/mpg1977/howdoo.token.contracts/graphs/commit-activity,4,
+636. Atonomi,ATMI,/graphs/commit-activity,4,2 contributors
+637. SophiaTX,SPHTX,https://github.com/SophiaTX/SophiaTX-Network/graphs/commit-activity,4,1 contributor
+638. FuzeX,FXT,/graphs/commit-activity,4,1 contributor
+639. Intelligent Investment Chain,IIC,/graphs/commit-activity,4,1 contributor
+640. Renos,RNS,https://github.com/RenosCoin/RenosCoin/graphs/commit-activity,4,2 contributors
+641. WABnetwork,WAB,/graphs/commit-activity,4,1 contributor
+642. Repme,RPM,https://github.com/LadoAlejandro/RepMe/graphs/commit-activity,4,1 contributor
+643. FLIP,FLP,/graphs/commit-activity,4,1 contributor
+644. Debitum,DEB,/graphs/commit-activity,4,67 contributors
+645. Obsidian,ODN,https://github.com/obsidianproject/Obsidian-Qt/graphs/commit-activity,4,4 contributors
+646. Primecoin,XPM,https://github.com/primecoin/primecoin/graphs/commit-activity,4,+100 contributors
+647. Tokia,TKA,/graphs/commit-activity,3,1 contributor
+648. Tripio,TRIO,/graphs/commit-activity,3,1 contributor
+649. PopularCoin,POP,https://github.com/Pop-Currency-Foundation/PopularCoin/graphs/commit-activity,3,1 contributor
+650. NevaCoin,NEVA,/graphs/commit-activity,3,3 contributors
+651. BrokerNekoNetwork,BNN,/graphs/commit-activity,3,1 contributor
+652. Cruisebit,CRBT,https://github.com/cruisebit/crbtcoin/graphs/commit-activity,3,1 contributor
+653. GoldBlocks,GB,https://github.com/goldblockscoin/goldblocks/graphs/commit-activity,3,4 contributors
+654. Webchain,WEB,/graphs/commit-activity,3,1 contributor
+655. Innova,INN,https://github.com/innovacoin/innova/graphs/commit-activity,3,4 contributors
+656. AquariusCoin,ARCO,https://github.com/AquariusNetwork/ARCO/graphs/commit-activity,3,+100 contributors
+657. Tourist Token,TOTO,https://github.com/globaltouristteam/smartcontract/graphs/commit-activity,3,2 contributors
+658. Coin Lion,LION,https://github.com/coin-lion/go-infra/graphs/commit-activity,3,1 contributor
+659. COPYTRACK,CPY,/graphs/commit-activity,3,1 contributor
+660. BrahmaOS,BRM,https://github.com/BrahmaOS/brahmaos-packages-providers-ContactsProvider/graphs/commit-activity,3,1 contributor
+661. BitRent,RNTB,https://github.com/bitrent/Bitrent-Platform/graphs/commit-activity,3,1 contributor
+662. Jesus Coin,JC,https://github.com/jesusico/jesuscoin/graphs/commit-activity,3,1 contributor
+663. Lisk Machine Learning,LML,https://github.com/GNYIO/gny-token/graphs/commit-activity,3,1 contributor
+664. ZClassic,ZCL,https://github.com/z-classic/zclassic/graphs/commit-activity,3,+100 contributors
+665. EchoLink,EKO,https://github.com/EchoLinkTech/Echo/graphs/commit-activity,3,2 contributors
+666. FuturoCoin,FTO,/graphs/commit-activity,3,+100 contributors
+667. DaTa eXchange,DTX,/graphs/commit-activity,3,1 contributor
+668. Pandemia,PNDM,https://github.com/pandemiacoin/pandemia/graphs/commit-activity,3,1 contributor
+669. district0x,DNT,https://github.com/district0x/ethlance/graphs/commit-activity,3,7 contributors
+670. Fox Trading,FOXT,/graphs/commit-activity,3,1 contributor
+671. Bodhi,BOT,https://github.com/bodhiproject/bodhi-core/graphs/commit-activity,3,2 contributors
+672. Cryptonex,CNX,https://github.com/Cryptonex/source/graphs/commit-activity,3,1 contributor
+673. Nexo,NEXO,https://github.com/nexofinance/NEXO-Token/graphs/commit-activity,3,1 contributor
+674. S4FE,S4F,https://github.com/nterteryan/s4fe/graphs/commit-activity,3,1 contributor
+675. Formosa Financial,FMF,https://github.com/formosafinancial/cors-anywhere/graphs/commit-activity,3,6 contributors
+676. VikkyToken,VIKKY,https://github.com/vikkyteam/vikkyico/graphs/commit-activity,3,1 contributor
+677. ACRE,ACRE,https://github.com/acrecoin/acrecoin/graphs/commit-activity,3,2 contributors
+678. Boltt Coin ,BOLTT,https://github.com/Bolttcoindev/BolttCoin/graphs/commit-activity,3,1 contributor
+679. Ink Protocol,XNK,/graphs/commit-activity,3,1 contributor
+680. Rubex Money,RBMC,https://github.com/rubexmoney18/coin/graphs/commit-activity,3,1 contributor
+681. Monetha,MTH,https://github.com/monetha/TrustReputationSmartContracts/graphs/commit-activity,3,5 contributors
+682. BLOCKv,VEE,https://github.com/BLOCKvIO/documentation/graphs/commit-activity,3,1 contributor
+683. ToaCoin,TOA,https://github.com/toacoin/TOA/graphs/commit-activity,3,1 contributor
+684. WinToken,WIN,https://github.com/WinchainOS/Luckywin-Node/graphs/commit-activity,3,2 contributors
+685. Skeincoin,SKC,https://github.com/skeincoin/skeincoin/graphs/commit-activity,2,+100 contributors
+686. Electrify.Asia,ELEC,/graphs/commit-activity,2,1 contributor
+687. IONChain,IONC,https://github.com/ionchain/ether-node-api/graphs/commit-activity,2,2 contributors
+688. ERC20,ERC20,https://github.com/Ownagez/erc20-coin-project/graphs/commit-activity,2,1 contributor
+689. Blacer Coin,BLCR,https://github.com/blcrproject/BlacerCoin/graphs/commit-activity,2,1 contributor
+690. PutinCoin,PUT2,/graphs/commit-activity,2,1 contributor
+691. Tokenbox,TBX,https://github.com/zeriontech/inmediate-contracts/graphs/commit-activity,2,1 contributor
+692. HOLD,HOLD,https://github.com/InterstellarHoldings/InterstellarHoldings/graphs/commit-activity,2,1 contributor
+693. WITChain,WIT,https://github.com/witchaindev/-Contract-Source-Code/graphs/commit-activity,2,1 contributor
+694. Beetle Coin,BEET,https://github.com/beetledev/Wallet/graphs/commit-activity,2,2 contributors
+695. ZINC,ZINC,/graphs/commit-activity,2,1 contributor
+696. Signatum,SIGT,https://github.com/signatumd/source/graphs/commit-activity,2,1 contributor
+697. AnarchistsPrime,ACP,https://github.com/AnarchistsPrime/Acp2/graphs/commit-activity,2,1 contributor
+698. BitScreener Token,BITX,/graphs/commit-activity,2,1 contributor
+699. Novacoin,NVC,https://github.com/novacoin-project/novacoin/graphs/commit-activity,2,99 contributors
+700. Cappasity,CAPP,https://github.com/CappasityTech/ARToken/graphs/commit-activity,2,2 contributors
+701. VouchForMe,IPL,/graphs/commit-activity,2,1 contributor
+702. ZeusNetwork,ZEUS,https://github.com/ZEUS-coin/wallet/graphs/commit-activity,2,1 contributor
+703. Tigereum,TIG,/graphs/commit-activity,2,1 contributor
+704. GreenMed,GRMD,/graphs/commit-activity,2,1 contributor
+705. MASTERNET,MASH,https://github.com/masternetio/masternet-token/graphs/commit-activity,2,1 contributor
+706. HunterCoin,HUC,https://github.com/chronokings/huntercoin/graphs/commit-activity,2,59 contributors
+707. Decentralized Crypto Token,DCTO,https://github.com/dcto-project/decentralized-crypto-token/graphs/commit-activity,2,1 contributor
+708. IDOL COIN,IDOL,https://github.com/IDOL-COIN/IDOLCOIN/graphs/commit-activity,2,1 contributor
+709. MinexCoin,MNX,https://github.com/minexcoin/minexcoin/graphs/commit-activity,2,4 contributors
+710. FNKOS,FNKOS,/graphs/commit-activity,2,1 contributor
+711. BANKEX,BKX,https://github.com/BankEx/PlasmaETHexchange/graphs/commit-activity,2,3 contributors
+712. X12 Coin,X12,https://github.com/x12project/x12-core/graphs/commit-activity,2,2 contributors
+713. Neural Protocol,NRP,https://github.com/neuralprotocol/NRPSmartContract/graphs/commit-activity,2,1 contributor
+714. REBL,REBL,https://github.com/RebelliousToken/RebelliousWallet/graphs/commit-activity,2,1 contributor
+715. Havy,HAVY,https://github.com/havytoken/smartcontract/graphs/commit-activity,2,1 contributor
+716. Callisto Network,CLO,/graphs/commit-activity,2,1 contributor
+717. Budbo,BUBO,/graphs/commit-activity,2,1 contributor
+718. Forkcoin,FORK,https://github.com/forkcoindev/forkcoin/graphs/commit-activity,2,1 contributor
+719. LogisCoin,LGS,https://github.com/lgsproject/LogisCoin/graphs/commit-activity,2,1 contributor
+720. Internet Node Token,INT,/graphs/commit-activity,2,1 contributor
+721. Transcodium,TNS,https://github.com/transcodium/tns-mothership-translation/graphs/commit-activity,2,1 contributor
+722. Influence Chain,INC,https://github.com/InfluenceChain/inex-api/graphs/commit-activity,2,1 contributor
+723. TRAXIA,TMT,/graphs/commit-activity,2,2 contributors
+724. Hydro Protocol,HOT2,https://github.com/HydroProtocol/protocol-tron/graphs/commit-activity,2,1 contributor
+725. Pakcoin,PAK,https://github.com/pakcoin-project/pakcoin/graphs/commit-activity,2,1 contributor
+726. ATC Coin,ATCC,/graphs/commit-activity,2,1 contributor
+727. Blue Whale Token,BWX,https://github.com/BlueWhaleFoundation/prowler/graphs/commit-activity,2,1 contributor
+728. Elysian,ELY,https://github.com/Elysian-ELY/Smart-Contract/graphs/commit-activity,2,1 contributor
+729. Gravity,GZRO,https://github.com/GZR0/GRZ0/graphs/commit-activity,2,2 contributors
+730. BitNautic Token,BTNT,https://github.com/Bitnautic/bitnautic-ethereum-contracts/graphs/commit-activity,2,1 contributor
+731. Lamden,TAU,https://github.com/Lamden/saffron/graphs/commit-activity,2,3 contributors
+732. Maximine Coin,MXM,https://github.com/maximine/mxm-token-contract/graphs/commit-activity,2,1 contributor
+733. Quasarcoin,QAC,https://github.com/quasarcoin/quasar/graphs/commit-activity,2,
+734. WXCOINS,WXC,https://github.com/wxcoins/wxc-src/graphs/commit-activity,2,
+735. Cryptosolartech,CST,https://github.com/cstmining/Smart-Contract/graphs/commit-activity,2,1 contributor
+736. Kin,KIN,https://github.com/kinfoundation/placeholder/graphs/commit-activity,2,4 contributors
+737. GoldMint,MNTP,https://github.com/Goldmint/gm-dapp/graphs/commit-activity,2,4 contributors
+738. Coin2Play,C2P,https://github.com/Coin2Play/Coin2Play-Android/graphs/commit-activity,2,1 contributor
+739. Talao,TALAO,https://github.com/TalaoDAO/marketplace/graphs/commit-activity,2,10 contributors
+740. Populous,PPT,https://github.com/bitpopulous/Populous-smart-contracts/graphs/commit-activity,2,1 contributor
+741. ABBC Coin,ABBC,https://github.com/ABBCTEAM/abbc/graphs/commit-activity,2,1 contributor
+742. Startcoin,START,https://github.com/startcoin-project/startcoin/graphs/commit-activity,2,3 contributors
+743. FORCE,FOR,https://github.com/forceunited/force/graphs/commit-activity,2,5 contributors
+744. Joulecoin,XJO,https://github.com/joulecoin/joulecoin/graphs/commit-activity,2,+100 contributors
+745. XEL,XEL,https://github.com/sprocket-fpga/xel_miner/graphs/commit-activity,1,1 contributor
+746. Jewel,JWL,https://github.com/jeveldev/smartcontracts/graphs/commit-activity,1,1 contributor
+747. Seele,SEELE,https://github.com/seeleteam/research/graphs/commit-activity,1,1 contributor
+748. Honey,HONEY,https://github.com/cryptofun/honey/graphs/commit-activity,1,4 contributors
+749. Esports Token,EST,https://github.com/esportschain/esportstoken/graphs/commit-activity,1,1 contributor
+750. IQ.cash,IQ2,https://github.com/IQ-Cash/iqcash/graphs/commit-activity,1,1 contributor
+751. ParallelCoin,DUO,https://github.com/marcetin/parallelcoin/graphs/commit-activity,1,3 contributors
+752. Brickblock,BBK,/graphs/commit-activity,1,2 contributors
+753. GINcoin,GIN,https://github.com/gincoin-dev/gincoin-core/graphs/commit-activity,1,1 contributor
+754. Ethereum Meta,ETHM,https://github.com/ethermeta/EtherMeta/graphs/commit-activity,1,1 contributor
+755. XGOX,XGOX,https://github.com/bumbacoin/xgox/graphs/commit-activity,1,2 contributors
+756. Billionaire Token,XBL,https://github.com/BillionaireToken/TokenCore/graphs/commit-activity,1,1 contributor
+757. EquiTrader,EQT,https://github.com/equitrader/Equitrade/graphs/commit-activity,1,2 contributors
+758. Blackmoon,BMC,https://github.com/blackmoonfg/bmc-contract/graphs/commit-activity,1,1 contributor
+759. NANJCOIN,NANJ,/graphs/commit-activity,1,
+760. Blocklancer,LNC,https://github.com/BlocklancerOrg/ethReum/graphs/commit-activity,1,4 contributors
+761. SwissBorg,CHSB,/graphs/commit-activity,1,1 contributor
+762. Aergo,AERGO,https://github.com/aergoio/athena-371/graphs/commit-activity,1,1 contributor
+763. Covesting,COV,/graphs/commit-activity,1,2 contributors
+764. AmsterdamCoin,AMS,https://github.com/CoinProjects/AmsterdamCoin-v4/graphs/commit-activity,1,+100 contributors
+765. SaluS,SLS,https://github.com/saluscoin/SaluS/graphs/commit-activity,1,3 contributors
+766. DxChain Token,DX,https://github.com/DxChainNetwork/dxchain-token-contracts/graphs/commit-activity,1,1 contributor
+767. AdultChain,XXX,https://github.com/AdultChain/AdultChain/graphs/commit-activity,1,1 contributor
+768. Advanced Technology Coin,ARC,https://github.com/ArcticCore/arcticcoin/graphs/commit-activity,1,1 contributor
+769. Plancoin,PLAN,/graphs/commit-activity,1,
+770. Chronologic,DAY,https://github.com/chronologic/chronologic/graphs/commit-activity,1,6 contributors
+771. Dystem,DTEM,https://github.com/Dystem/wallets/graphs/commit-activity,1,1 contributor
+772. Privatix,PRIX,https://github.com/Privatix/smart-contract/graphs/commit-activity,1,4 contributors
+773. Bolenum,BLN,https://github.com/Bolenum/Boleno/graphs/commit-activity,1,2 contributors
+774. Menlo One,ONE,https://github.com/MenloOne/whitepapers/graphs/commit-activity,1,1 contributor
+775. HyperQuant,HQT,https://github.com/hyperquant-platform/token-distribution-contract/graphs/commit-activity,1,1 contributor
+776. Gas,GAS,https://github.com/neo-project/specification/graphs/commit-activity,1,1 contributor
+777. Online,OIO,https://github.com/Online-io/db-migrate-cassandra/graphs/commit-activity,1,3 contributors
+778. SEER,SEER,https://github.com/seer-project/seer-UI-package/graphs/commit-activity,1,
+779. Grid+,GRID,https://github.com/gridplus/client/graphs/commit-activity,1,1 contributor
+780. Flash,FLASH,https://github.com/flash-coin/insight-lite-api/graphs/commit-activity,1,1 contributor
+781. Swarm City,SWT,https://github.com/swarmcity/sc-boardwalk/graphs/commit-activity,1,8 contributors
+782. Zealium,NZL,https://github.com/zealiumcoin/Zealium/graphs/commit-activity,1,1 contributor
+783. STEM CELL COIN,SCC,/graphs/commit-activity,1,1 contributor
+784. HiCoin,XHI,https://github.com/hicoindev/hicoin/graphs/commit-activity,1,1 contributor
+785. Odyssey,OCN,https://github.com/OdysseyOCN/OWalletPlatform/graphs/commit-activity,1,1 contributor
+786. CHIPS,CHIPS,https://github.com/DeckerSU/chips3/graphs/commit-activity,1,+100 contributors
+787. Fargocoin,FRGC,https://github.com/fargocoin/fargocoind/graphs/commit-activity,1,
+788. Luna Stars,LSTR,/graphs/commit-activity,1,1 contributor
+789. Experience Points,XP,https://github.com/eXperiencePoints/XPCoin/graphs/commit-activity,1,8 contributors
+790. GMB,GMB,https://github.com/GMBPlatform/wallet-nodejs/graphs/commit-activity,1,1 contributor
+791. Cosmo Coin,COSM,https://github.com/cosmochain/CosmoCoin/graphs/commit-activity,1,
+792. Wink,WINK,https://github.com/winkchain/wink/graphs/commit-activity,1,
+793. Mocrow,MCW,https://github.com/salamtura/mcw-token/graphs/commit-activity,1,1 contributor
+794. Blakecoin,BLC,https://github.com/BlueDragon747/Blakecoin/graphs/commit-activity,1,2 contributors
+795. Swisscoin,SIC,/graphs/commit-activity,1,
+796. Soniq,SONIQ,https://github.com/soniqproject/smart-contracts/graphs/commit-activity,1,1 contributor
+797. Crowdholding,YUP,https://github.com/crowdholding/yup-token/graphs/commit-activity,1,1 contributor
+798. LatiumX,LATX,/graphs/commit-activity,1,1 contributor
+799. SmartFox,FOX,https://github.com/smartfoxteam/smartfox/graphs/commit-activity,1,1 contributor
+800. Infinipay,IFP,https://github.com/infinipay/infinipay/graphs/commit-activity,1,
+801. Allion,ALL,https://github.com/EpyxZ/Allion/graphs/commit-activity,1,1 contributor
+802. NEM,XEM,https://github.com/NemProject/nem.core/graphs/commit-activity,1,4 contributors
+803. Thingschain,TIC,https://github.com/TICnetwork/TIC-token/graphs/commit-activity,1,1 contributor
+804. X-Coin,XCO,https://github.com/jimblasko/xcoin/graphs/commit-activity,1,2 contributors
